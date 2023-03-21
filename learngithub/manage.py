@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#import pands as pd
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'learngithub.settings')
